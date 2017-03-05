@@ -15,6 +15,11 @@
             },
 
             {
+                "name": "Star Wars"
+            },
+
+
+            {
                 "name": "Others"
             }
         ],
@@ -139,6 +144,15 @@
                 "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true",
                 "name": "Marshmallow 11",
                 "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Stux (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/bb8-droid-1141513_1920.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/bb8-droid-1141513_1920.jpg?raw=true",
+                "name": "BB8 Galaxy",
+                "category": "star wars"
             }
+
         ]
 }
