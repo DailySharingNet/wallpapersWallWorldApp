@@ -152,7 +152,48 @@
                 "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/bb8-droid-1141513_1920.jpg?raw=true",
                 "name": "BB8 Galaxy",
                 "category": "star wars"
+            },
+
+            {
+                "author": "designwebjae (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/rey-1449242_1920.png?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/rey-1449242_1920.png?raw=true",
+                "name": "Rey Cartoon",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Ricinator (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980157_1280.png?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980157_1280.png?raw=true",
+                "name": "Lightsaber Cartoon",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Ricinator (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980162_1280.png?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980162_1280.png?raw=true",
+                "name": "Star Wars Lightsaber",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Gellinger (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star-wars-1181724_1920.png?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star-wars-1181724_1920.png?raw=true",
+                "name": "Storm Trooper Healmet",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Ricinator (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/vader-2023850_1280.png?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/vader-2023850_1280.png?raw=true",
+                "name": "Darth Vader Cartoon",
+                "category": "star wars"
             }
+
 
         ]
 }
