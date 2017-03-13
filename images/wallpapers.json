@@ -39,7 +39,7 @@
     
     "Wallpapers":
         [
-       { "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "name": "Nougat 1", "category": "Nougat, Android" }
+{ "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "name": "Nougat 1", "category": "Nougat, Android" }
 
 ,{ "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "name": "Nougat 2", "category": "Android, Nougat" }
 
@@ -69,8 +69,36 @@
 
 ,{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true", "name": "Marshmallow 11", "category": "Android, Marshmallow" }
 
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/13c530b3a39bf4f99c02b168a8bf1974.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/13c530b3a39bf4f99c02b168a8bf1974.jpg?raw=true", "name": "Game of Clones (Star Wars)", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/38706311cee072a1e6683977a5687313.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/38706311cee072a1e6683977a5687313.jpg?raw=true", "name": "Darth Vader Letter", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/9e3a5a2c2df2813ba11aa7f0b439a512.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/9e3a5a2c2df2813ba11aa7f0b439a512.jpg?raw=true", "name": "I am your wallpaper", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FRcxspr.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FRcxspr.jpg?raw=true", "name": "Jedi Letter", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FmlM7Fj.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FmlM7Fj.jpg?raw=true", "name": "The Force Awakens (Poster)", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/a9560a9150a32a948facbf48a890c60a_screeshots_1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/a9560a9150a32a948facbf48a890c60a_screeshots_1.jpeg?raw=true", "name": "Star Wars Sunset", "category": "Star Wars" }
+
+,{ "author": "Stux (pixabay)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/bb8-droid-1141513_1920.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/bb8-droid-1141513_1920.jpg?raw=true", "name": "BB8 Galaxy", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/darth%20vader.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/darth%20vader.jpg?raw=true", "name": "Darth Vader Helmet", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/e58fd25cc8346bedb74b6f4bdfdd26d7.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/e58fd25cc8346bedb74b6f4bdfdd26d7.jpg?raw=true", "name": "Jedi Order", "category": "Star Wars" }
+
+,{ "author": "Ricinator (pixabay)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980162_1280.png?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980162_1280.png?raw=true", "name": "Star Wars Lightsaber", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_characters_drawing_92185_540x960.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_characters_drawing_92185_540x960.jpg?raw=true", "name": "Star Wars Characters", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_empire_iphone_wallpaper__2__by_gonkbot-d6px6cl.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_empire_iphone_wallpaper__2__by_gonkbot-d6px6cl.jpg?raw=true", "name": "The empire", "category": "Star Wars" }
+
+,{ "author": "Star Wars Wallpapers", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_the_old_republic_cellphone_wallpaper_by_swmand4-d7lgca4.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_the_old_republic_cellphone_wallpaper_by_swmand4-d7lgca4.jpg?raw=true", "name": "The old republic", "category": "Star Wars" }
+
 ,{ "author": "Juskteez Vu (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/juskteez-vu-3824.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/juskteez-vu-3824.jpg?raw=true", "name": "Mountain & Galaxy", "category": "Space, Landscapes" }
 
-,{ "author": "Michael Hirsch (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "name": "Foggy Golden Gate Bridge (San Francisco)", "category": "Landscapes" }
+,{ "author": "Michael Hirsch (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "name": "Foggy Golden Gate Bridge (San Francisco)", "category": "Landscapes" }    
+        
+        
         ]
 }
