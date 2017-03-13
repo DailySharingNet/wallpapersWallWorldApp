@@ -45,7 +45,7 @@
     "Wallpapers":
         [
 
-            { "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "name": "Nougat 1", "category": "Nougat, Android" }
+          { "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "name": "Nougat 1", "category": "Nougat, Android" }
 
 ,{ "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "name": "Nougat 2", "category": "Android, Nougat" }
 
@@ -103,7 +103,7 @@
 
 ,{ "author": "Juskteez Vu (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/juskteez-vu-3824.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/juskteez-vu-3824.jpg?raw=true", "name": "Mountain & Galaxy", "category": "Space, Landscapes" }
 
-,{ "author": "Michael Hirsch (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "name": "Foggy Golden Gate Bridge (San Francisco)", "category": "Landscapes, Cities" }
+,{ "author": "Michael Hirsch (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "name": "Foggy Golden Gate Bridge (San Francisco)", "category": "Landscapes,Cities" }
 
 ,{ "author": "NASA", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/nasa-43567.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/nasa-43567.jpg?raw=true", "name": "ISS view of Earth", "category": "Space" }
 
@@ -117,8 +117,7 @@
 
 ,{ "author": "NASA", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/nasa-89127.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/nasa-89127.jpg?raw=true", "name": "The Carina Nebula", "category": "Space" }
 
-,{ "author": "Braden Collum (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Landscapes%20(Various)/braden-collum-149207.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Landscapes%20(Various)/braden-collum-149207.jpg?raw=true", "name": "Flat Iron (New York)", "category": "Landscapes, Cities" }
-            
+,{ "author": "Braden Collum (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Landscapes%20(Various)/braden-collum-149207.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Landscapes%20(Various)/braden-collum-149207.jpg?raw=true", "name": "Flat Iron (New York)", "category": "Landscapes, Cities" } 
             
         ]
 }
