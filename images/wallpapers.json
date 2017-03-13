@@ -34,7 +34,233 @@
     
     "Wallpapers":
         [
-           { "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "name": "Nougat 1", "category": "Nougat, Android" } ,{ "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "name": "Nougat 2", "category": "Android, Nougat" } ,{ "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-3.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-3.jpeg?raw=true", "name": "Nougat 3", "category": "Android, Nougat" },{ "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-4.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-4.jpeg?raw=true", "name": "Nougat 4", "category": "Android, Nougat" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-blue.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-blue.jpg?raw=true", "name": "Marshmallow 1", "category": "Android, Marshmallow" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-red.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-red.jpg?raw=true", "name": "Marshmallow 2", "category": "Android, Marshmallow" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_001.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_001.jpg?raw=true", "name": "Marshmallow 3", "category": "Android, Marshmallow" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_002.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_002.jpg?raw=true", "name": "Marshmallow 4", "category": "Android, Marshmallow" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_003.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_003.jpg?raw=true", "name": "Marshmallow 5", "category": "Android, Marshmallow" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_004.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_004.jpg?raw=true", "name": "Marshmallow 6", "category": "Android, Marshmallow" } ,{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_005.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_005.jpg?raw=true", "name": "Marshmallow 7", "category": "Android, Marshmallow" } ,{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_006.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_006.jpg?raw=true", "name": "Marshmallow 8", "category": "Android, Marshmallow" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_007.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_007.jpg?raw=true", "name": "Marshmallow 9", "category": "Android, Marshmallow" } ,{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_008.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_008.jpg?raw=true", "name": "Marshmallow 10", "category": "Android, Marshmallow" },{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/,{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true", "name": "Marshmallow 11", "category": "Android, Marshmallow" },{ "author": "Michael Hirsch (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "name": "Foggy Golden Gate Bridge (San Francisco)", "category": "Landscapes" }
+            {
+                "author": "Android Nougat",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true",
+                "name": "Nougat 1",
+                "category": "nougat"
+            },
+
+            {
+                "author": "Android Nougat",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true",
+                "name": "Nougat 2",
+                "category": "nougat"
+            },
+
+            {
+                "author": "Android Nougat",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-3.jpeg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-3.jpeg?raw=true",
+                "name": "Nougat 3",
+                "category": "nougat"
+            },
+
+            {
+                "author": "Android Nougat",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-4.jpeg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-4.jpeg?raw=true",
+                "name": "Nougat 4",
+                "category": "nougat"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-blue.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-blue.jpg?raw=true",
+                "name": "Marshmallow 1",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-red.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wallpaper-kleiner-google-red.jpg?raw=true",
+                "name": "Marshmallow 2",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_001.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_001.jpg?raw=true",
+                "name": "Marshmallow 3",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_002.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_002.jpg?raw=true",
+                "name": "Marshmallow 4",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_003.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_003.jpg?raw=true",
+                "name": "Marshmallow 5",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_004.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_004.jpg?raw=true",
+                "name": "Marshmallow 6",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_005.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_005.jpg?raw=true",
+                "name": "Marshmallow 7",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_006.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_006.jpg?raw=true",
+                "name": "Marshmallow 8",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_007.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_007.jpg?raw=true",
+                "name": "Marshmallow 9",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_008.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_008.jpg?raw=true",
+                "name": "Marshmallow 10",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Android Marshmallow",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true",
+                "name": "Marshmallow 11",
+                "category": "marshmallow,android"
+            },
+
+            {
+                "author": "Stux (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/bb8-droid-1141513_1920.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/bb8-droid-1141513_1920.jpg?raw=true",
+                "name": "BB8 Galaxy",
+                "category": "star wars"
+            },
+
+
+            {
+                "author": "Ricinator (pixabay)",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980162_1280.png?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/lightsaber-1980162_1280.png?raw=true",
+                "name": "Star Wars Lightsaber",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/13c530b3a39bf4f99c02b168a8bf1974.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/13c530b3a39bf4f99c02b168a8bf1974.jpg?raw=true",
+                "name": "Game of Clones (Star Wars)",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/38706311cee072a1e6683977a5687313.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/38706311cee072a1e6683977a5687313.jpg?raw=true",
+                "name": "Darth Vader Letters",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/9e3a5a2c2df2813ba11aa7f0b439a512.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/9e3a5a2c2df2813ba11aa7f0b439a512.jpg?raw=true",
+                "name": "I am your wallpaper",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FRcxspr.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FRcxspr.jpg?raw=true",
+                "name": "Jedi Letters",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/a9560a9150a32a948facbf48a890c60a_screeshots_1.jpeg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/a9560a9150a32a948facbf48a890c60a_screeshots_1.jpeg?raw=true",
+                "name": "Star Wars Sunset",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/darth%20vader.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/darth%20vader.jpg?raw=true",
+                "name": "Darth Vader Helmet",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FmlM7Fj.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/FmlM7Fj.jpg?raw=true",
+                "name": "The Force Awakens (Poster)",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/e58fd25cc8346bedb74b6f4bdfdd26d7.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/e58fd25cc8346bedb74b6f4bdfdd26d7.jpg?raw=true",
+                "name": "Jedi Order",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_characters_drawing_92185_540x960.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_characters_drawing_92185_540x960.jpg?raw=true",
+                "name": "Star Wars Character Drawing",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_empire_iphone_wallpaper__2__by_gonkbot-d6px6cl.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_empire_iphone_wallpaper__2__by_gonkbot-d6px6cl.jpg?raw=true",
+                "name": "The empire",
+                "category": "star wars"
+            },
+
+            {
+                "author": "Star Wars Wallpapers",
+                "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_the_old_republic_cellphone_wallpaper_by_swmand4-d7lgca4.jpg?raw=true",
+                "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Star%20Wars/star_wars_the_old_republic_cellphone_wallpaper_by_swmand4-d7lgca4.jpg?raw=true",
+                "name": "The old republic",
+                "category": "star wars"
+            }
+            
+            ,{ "author": "Michael Hirsch (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "name": "Foggy Golden Gate Bridge (San Francisco)", "category": "Landscapes" }
+
 
 
         ]
