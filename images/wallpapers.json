@@ -24,6 +24,11 @@
             {
                 "name": "Landscapes"
             },
+            
+            
+            {
+                "name": "Space"
+            },
       
 
 
@@ -34,7 +39,7 @@
     
     "Wallpapers":
         [
-           { "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "name": "Nougat 1", "category": "Nougat, Android" }
+       { "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.jpeg?raw=true", "name": "Nougat 1", "category": "Nougat, Android" }
 
 ,{ "author": "Android Nougat", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Nougat/android-n-nougat-wallpaper-1.png?raw=true", "name": "Nougat 2", "category": "Android, Nougat" }
 
@@ -64,8 +69,8 @@
 
 ,{ "author": "Android Marshmallow", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Marshmallow/wp_009.jpg?raw=true", "name": "Marshmallow 11", "category": "Android, Marshmallow" }
 
+,{ "author": "Juskteez Vu (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/juskteez-vu-3824.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/Space/juskteez-vu-3824.jpg?raw=true", "name": "Mountain & Galaxy", "category": "Space, Landscapes" }
+
 ,{ "author": "Michael Hirsch (unsplash)", "url": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "thumbUrl": "https://github.com/DailySharingNet/wallpapersWallWorldApp/blob/master/images/San%20Francisco/michael-hirsch-1962.jpg?raw=true", "name": "Foggy Golden Gate Bridge (San Francisco)", "category": "Landscapes" }
-
-
         ]
 }
